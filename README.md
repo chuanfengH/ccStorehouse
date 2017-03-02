@@ -1,2 +1,5 @@
 # ccStorehouse
-a storehouse created by chuanfeng who alias cc.
+
+Hi,humans!
+
+I use github to improve my english expression.
